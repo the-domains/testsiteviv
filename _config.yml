@@ -1,0 +1,14 @@
+layout_spectrum: 0.22423907276242971
+typography_spectrum: 0.09419226506724954
+color:
+  brandStrength: 0.0774442688561976
+  lightness: 0.23945432482287288
+  saturation: 0.1410575860645622
+  rhythmicContrast: 0.23787199356593192
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: TestSiteViv
